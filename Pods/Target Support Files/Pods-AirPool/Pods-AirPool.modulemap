@@ -1,6 +1,0 @@
-framework module Pods_AirPool {
-  umbrella header "Pods-AirPool-umbrella.h"
-
-  export *
-  module * { export * }
-}
